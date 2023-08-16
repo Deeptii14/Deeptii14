@@ -1,8 +1,8 @@
 
 
-<h1 align="center">Hi 👋 Githubers !</h1>
+<h1 align="center">Hi 👋 Githubers ! I am Deepti</h1>
+<h2> Full Stack WebDeveloper [MERN] </h2>
 
-👩‍💻💻-**I am a Full Stack Developer**
 <p align="center">👩‍🎓 - I am a computer science geek who is always ready to learn new things and exploring🔍 the possibilities as much I can .</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Deeptii14&label=Profile%20views&color=0e75b6&style=flat"alt="Deeptii14" /></p>
 
